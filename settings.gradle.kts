@@ -21,4 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "systme_drag_plugins"
 include(":app")
- 
+include(":global_drag")
